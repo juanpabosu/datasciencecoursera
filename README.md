@@ -1,4 +1,4 @@
 Datasciencecoursera
 ===================
 
-Data Scientist's Toolbox (coursera) JuanP
+Data Scientist's Toolbox (coursera) Juan
