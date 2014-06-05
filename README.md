@@ -1,4 +1,4 @@
-datasciencecoursera
+Datasciencecoursera
 ===================
 
-Data Scientist's Toolbox (coursera)
+Data Scientist's Toolbox (coursera) JuanP
